@@ -2,9 +2,9 @@ def fetch_and_save_stock_data():
     import requests
     from bs4 import BeautifulSoup
     from src.update_csv import update_csv
-    import time  # Gecikme için gerekli modül
+    import time  # Module required for delay
 
-    # URL ve CSV dosyası eşleştirmeleri
+    # URL and CSV file mappings
     url_csv_map = {
         "https://oyakyatirim.com.tr/piyasa-verileri/XU030": "data/stock_xu030_data.csv",
         "https://oyakyatirim.com.tr/piyasa-verileri/XU050": "data/stock_xu050_data.csv",
@@ -19,12 +19,12 @@ def fetch_and_save_stock_data():
             if response.status_code == 200:
                 soup = BeautifulSoup(response.content, 'html.parser')
 
-                # Doğru div'i seçin
+                # Select the correct div
                 portlet_box = soup.find('div', class_='portlet box green')
                 if not portlet_box:
                     raise Exception("Failed to find 'portlet box green' in the HTML.")
 
-                # Div içerisindeki tabloyu bulun
+                # Find the table within the div
                 table = portlet_box.find('table')
                 if not table:
                     raise Exception("Failed to find 'table' in the 'portlet box green'.")
@@ -55,13 +55,13 @@ def fetch_and_save_stock_data():
                     }
                     stock_data.append(stock_info)
 
-                # CSV'ye yaz
+                # Write to CSV
                 update_csv(stock_data, csv_file_path)
                 print(f"Stock data from {url} saved to {csv_file_path}.")
             else:
                 raise Exception(f"Failed to fetch data: HTTP {response.status_code}")
 
-            # İstekler arasında 1-2 saniye bekle
+            # Wait 1-2 seconds between requests
             time.sleep(2)
 
         except Exception as e:

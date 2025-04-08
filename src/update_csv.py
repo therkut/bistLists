@@ -2,10 +2,10 @@ def update_csv(fetched_data, csv_file_path):
     import pandas as pd
     import os
 
-    # Eğer 'data' klasörü yoksa oluştur
+    # Create 'data' directory if it doesn't exist
     os.makedirs(os.path.dirname(csv_file_path), exist_ok=True)
 
-    # Mevcut veriyi yükle
+    # Load existing data
     if os.path.exists(csv_file_path):
         try:
             existing_data = pd.read_csv(csv_file_path)
@@ -15,13 +15,13 @@ def update_csv(fetched_data, csv_file_path):
     else:
         existing_data = pd.DataFrame()
 
-    # Yeni veriyi DataFrame'e dönüştür
+    # Convert new data to DataFrame
     new_data = pd.DataFrame(fetched_data)
 
-    # Değişiklik kontrolü
+    # Check for changes
     if existing_data.empty or not existing_data.equals(new_data):
         try:
-            # Yeni veriyi CSV'ye yaz
+            # Write new data to CSV
             new_data.to_csv(csv_file_path, index=False)
             print(f"CSV file '{csv_file_path}' updated successfully.")
         except Exception as e:
