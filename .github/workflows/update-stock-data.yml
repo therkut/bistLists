@@ -35,6 +35,10 @@ jobs:
           git add ./data/stock_xu030_data.csv
           git add ./data/stock_xu050_data.csv
           git add ./data/stock_xu100_data.csv
+          git add ./data/stock_xutum_data.csv
+          git add ./data/stock_xktum_data.csv
+          git add ./data/stock_xktumext_data.csv
+          git add ./data/stockall.txt
           timestamp=$(date '+%Y-%m-%d %H:%M:%S')
           git commit -m "Update stock data - ${timestamp}" || echo "No changes to commit"
           git push
