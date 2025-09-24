@@ -31,22 +31,29 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: vap-report
-          path: data/*.{html,xls,xlsx}
+          path:
+            - data/*.html
+            - data/*.xls
+            - data/*.xlsx
 
       - name: Commit and push generated files
+        shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          CHANGED=false
+          shopt -s nullglob
+
+          FILES_TO_ADD=()
+
           for file in data/*.xls data/*.xlsx data/*.html; do
             if [ -f "$file" ]; then
-              git add "$file"
-              CHANGED=true
+              FILES_TO_ADD+=("$file")
             fi
           done
 
-          if $CHANGED; then
+          if [ ${#FILES_TO_ADD[@]} -gt 0 ]; then
+            git add "${FILES_TO_ADD[@]}"
             git commit -m "📊 Add updated VAP report files"
             git push
           else
