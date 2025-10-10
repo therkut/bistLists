@@ -3,7 +3,7 @@ A1CAP,Katılım Endeksine Uygun Değildir,A1 Capital,Aracı Kurumlar
 A1YEN,Katılım Endeksine Uygun Değildir,Kartal Yenilenebili Enerji,Elektrik Üretim
 ACSEL,Katılım Endeksine Uygundur,Acıselsan Acıpayam Selüloz,Kimyasal Ürün
 ADEL,Katılım Endeksine Uygun Değildir,Adel Kalemcilik,Kırtasiye
-ADESE,Katılım Endeksine Uygundur,Adese AVM,GYO
+ADESE,Katılım Endeksine Uygun Değildir,Adese AVM,GYO
 ADGYO,Katılım Endeksine Uygun Değildir,Adra GYO,GYO
 AEFES,Katılım Endeksine Uygun Değildir,Anadolu Efes,Meşrubat / İçecek
 AFYON,Katılım Endeksine Uygun Değildir,Afyon Çimento,Çimento
@@ -14,7 +14,7 @@ AGYO,Katılım Endeksine Uygun Değildir,Atakule GYO,GYO
 AHGAZ,Katılım Endeksine Uygun Değildir,Ahlatçı Doğalgaz,Elektrik - Doğalgaz Dağıtım
 AHSGY,Katılım Endeksine Uygundur,Ahes GYO,GYO
 AKBNK,Katılım Endeksine Uygun Değildir,Akbank,Bankacılık
-AKCNS,Katılım Endeksine Uygundur,Akçansa,Çimento
+AKCNS,Katılım Endeksine Uygun Değildir,Akçansa,Çimento
 AKENR,Katılım Endeksine Uygun Değildir,Akenerji,Elektrik Üretim
 AKFGY,Katılım Endeksine Uygun Değildir,Akfen GYO,GYO
 AKFIS,Katılım Endeksine Uygun Değildir,Akfen İnşaat,İnşaat- Taahhüt
@@ -22,7 +22,7 @@ AKFYE,Katılım Endeksine Uygundur,Akfen Yenilenebilir Enerji,Elektrik Üretim
 AKGRT,Katılım Endeksine Uygun Değildir,Aksigorta,Sigorta
 AKMGY,Katılım Endeksine Uygun Değildir,Akmerkez GYO,GYO
 AKSA,Katılım Endeksine Uygundur,Aksa,Endüstriyel Tekstil
-AKSEN,Katılım Endeksine Uygundur,Aksa Enerji,Elektrik Üretim
+AKSEN,Katılım Endeksine Uygun Değildir,Aksa Enerji,Elektrik Üretim
 AKSGY,Katılım Endeksine Uygun Değildir,Akis GYO,GYO
 AKSUE,Katılım Endeksine Uygun Değildir,Aksu Enerji,Elektrik Üretim
 AKYHO,Katılım Endeksine Uygundur,Akdeniz Yatırım Holding,Holdingler
@@ -44,7 +44,7 @@ ANSGR,Katılım Endeksine Uygun Değildir,Anadolu Sigorta,Sigorta
 ARASE,Katılım Endeksine Uygundur,Doğu Aras Enerji,Elektrik - Doğalgaz Dağıtım
 ARCLK,Katılım Endeksine Uygun Değildir,Arçelik,Dayanıklı Tüketim
 ARDYZ,Katılım Endeksine Uygundur,ARD Grup Bilişim,Teknoloji
-ARENA,Katılım Endeksine Uygundur,Arena Bilgisayar,Bilgisayar Toptancılığı
+ARENA,Katılım Endeksine Uygun Değildir,Arena Bilgisayar,Bilgisayar Toptancılığı
 ARMGD,Katılım Endeksine Uygun Değildir,Armada Gıda,Gıda
 ARSAN,Katılım Endeksine Uygun Değildir,Arsan Tekstil,Tekstil Entegre
 ARTMS,Katılım Endeksine Uygun Değildir,Artemis Halı,Tekstil Entegre
@@ -52,10 +52,10 @@ ARZUM,Katılım Endeksine Uygun Değildir,Arzum Ev Aletleri,Dayanıklı Tüketim
 ASELS,Katılım Endeksine Uygundur,Aselsan,Savunma
 ASGYO,Katılım Endeksine Uygun Değildir,Asce GYO,GYO
 ASTOR,Katılım Endeksine Uygun Değildir,Astor Enerji,Elektrik Enerji Ürt.Teçh/Tesis Kurulum
-ASUZU,Katılım Endeksine Uygundur,Anadolu Isuzu,Otomotiv
+ASUZU,Katılım Endeksine Uygun Değildir,Anadolu Isuzu,Otomotiv
 ATAGY,Katılım Endeksine Uygun Değildir,Ata GYO,GYO
 ATAKP,Katılım Endeksine Uygundur,Atakey Patates,Gıda
-ATATP,Katılım Endeksine Uygun Değildir,ATP Bilgisayar,Teknoloji
+ATATP,Katılım Endeksine Uygundur,ATP Bilgisayar,Teknoloji
 ATEKS,Katılım Endeksine Uygun Değildir,Akın Tekstil,Tekstil Entegre
 ATLAS,Katılım Endeksine Uygun Değildir,Atlas YO,Yatırım Ortaklıkları
 ATSYH,Katılım Endeksine Uygun Değildir,Atlantis YO,Holdingler
@@ -83,7 +83,7 @@ BAYRK,Katılım Endeksine Uygun Değildir,Bayrak EBT Taban,Tekstil Entegre
 BEGYO,Katılım Endeksine Uygundur,Batı Ege GYO,GYO
 BERA,Katılım Endeksine Uygundur,Bera Holding,Holdingler
 BESLR,Katılım Endeksine Uygun Değildir,Besler Gıda,Gıda
-BEYAZ,Katılım Endeksine Uygundur,Beyaz Filo,Ulaştırma-Lojistik
+BEYAZ,Katılım Endeksine Uygun Değildir,Beyaz Filo,Ulaştırma-Lojistik
 BFREN,Katılım Endeksine Uygun Değildir,Bosch Fren,Otomotiv Parçası
 BIENY,Katılım Endeksine Uygundur,Bien Yapı,Seramik
 BIGCH,Katılım Endeksine Uygun Değildir,BigChefs,Gıda
@@ -95,14 +95,15 @@ BIOEN,Katılım Endeksine Uygun Değildir,Biotrend Enerji,Elektrik Üretim
 BIZIM,Katılım Endeksine Uygun Değildir,Bizim Toptan,Perakande - Ticaret
 BJKAS,Katılım Endeksine Uygun Değildir,Beşiktaş,Spor
 BLCYT,Katılım Endeksine Uygun Değildir,Bilici Yatırım,Tekstil Entegre
+BLUME,Katılım Endeksine Uygun Değildir,Blume Metal Kimya,Turizm
 BMSCH,Katılım Endeksine Uygun Değildir,BMS Çelik Hasır,Demir-Çelik Döküm
 BMSTL,Katılım Endeksine Uygundur,BMS Birleşik Metal,Demir-Çelik Döküm
-BNTAS,Katılım Endeksine Uygun Değildir,Bantaş Bandırma Ambalaj,Kimyasal Ürün
+BNTAS,Katılım Endeksine Uygundur,Bantaş Bandırma Ambalaj,Kimyasal Ürün
 BOBET,Katılım Endeksine Uygun Değildir,Boğaziçi Beton,Çimento
-BORLS,Katılım Endeksine Uygundur,Borlease Otomotiv,Ulaştırma-Lojistik
+BORLS,Katılım Endeksine Uygun Değildir,Borlease Otomotiv,Ulaştırma-Lojistik
 BORSK,Katılım Endeksine Uygundur,Bor Şeker,Gıda
 BOSSA,Katılım Endeksine Uygundur,Bossa,Tekstil Entegre
-BRISA,Katılım Endeksine Uygun Değildir,Brisa,Otomotiv Lastiği
+BRISA,Katılım Endeksine Uygundur,Brisa,Otomotiv Lastiği
 BRKO,Katılım Endeksine Uygun Değildir,Birko Mensucat,Tekstil Entegre
 BRKSN,Katılım Endeksine Uygundur,Berkosan Yalıtım,İnşaat Malzemeleri
 BRKVY,Katılım Endeksine Uygun Değildir,Birikim Varlık,Varlık Yönetim
@@ -112,7 +113,7 @@ BRSAN,Katılım Endeksine Uygun Değildir,Borusan Birleşik Boru Fab.,Demir-Çel
 BRYAT,Katılım Endeksine Uygun Değildir,Borusan Yatırım,Holdingler
 BSOKE,Katılım Endeksine Uygundur,Batı Söke Çimento,Çimento
 BTCIM,Katılım Endeksine Uygun Değildir,Batıçim,Çimento
-BUCIM,Katılım Endeksine Uygundur,Bursa Çimento,Çimento
+BUCIM,Katılım Endeksine Uygun Değildir,Bursa Çimento,Çimento
 BULGS,Katılım Endeksine Uygun Değildir,Bulls GSYO,Yatırım Ortaklıkları
 BURCE,Katılım Endeksine Uygundur,Burçelik,Demir-Çelik Döküm
 BURVA,Katılım Endeksine Uygundur,Burçelik Vana Sanayii,İnşaat Malzemeleri
@@ -120,14 +121,14 @@ BVSAN,Katılım Endeksine Uygun Değildir,Bülbüloğlu Vinç,İnşaat Malzemele
 BYDNR,Katılım Endeksine Uygun Değildir,Baydöner,Gıda
 CANTE,Katılım Endeksine Uygundur,Çan2 Termik A.S,Elektrik Üretim
 CASA,Katılım Endeksine Uygun Değildir,Casa Emtia Petrol Kim.Tür.AŞ,Perakande - Ticaret
-CATES,Katılım Endeksine Uygun Değildir,Çates Elektrik,Elektrik Üretim
+CATES,Katılım Endeksine Uygundur,Çates Elektrik,Elektrik Üretim
 CCOLA,Katılım Endeksine Uygun Değildir,Coca-Cola İçecek A.Ş,Meşrubat / İçecek
 CELHA,Katılım Endeksine Uygundur,Çelik Halat,Demir-Çelik Temel
 CEMAS,Katılım Endeksine Uygun Değildir,Çemaş Döküm,Demir-Çelik Döküm
 CEMTS,Katılım Endeksine Uygundur,Çemtas,Demir-Çelik Temel
 CEMZY,Katılım Endeksine Uygundur,Cem Zeytin,Gıda
 CEOEM,Katılım Endeksine Uygun Değildir,CEO Event Medya,Medya
-CGCAM,Katılım Endeksine Uygundur,Çağdaş Cam,Cam
+CGCAM,Katılım Endeksine Uygun Değildir,Çağdaş Cam,Cam
 CIMSA,Katılım Endeksine Uygundur,Çimsa,Çimento
 CLEBI,Katılım Endeksine Uygun Değildir,Çelebi,Havayolları ve Hizm.
 CMBTN,Katılım Endeksine Uygundur,Çimbeton,Çimento
@@ -141,9 +142,9 @@ CVKMD,Katılım Endeksine Uygundur,Cvk Maden,Madencilik
 CWENE,Katılım Endeksine Uygundur,Cw Enerji,Elektrik Enerji Ürt.Teçh/Tesis Kurulum
 DAGI,Katılım Endeksine Uygun Değildir,Dagi Giyim,Tekstil Entegre
 DAPGM,Katılım Endeksine Uygundur,Dap Gayrimenkul,GYO
-DARDL,Katılım Endeksine Uygun Değildir,Dardanel,Gıda
+DARDL,Katılım Endeksine Uygundur,Dardanel,Gıda
 DCTTR,Katılım Endeksine Uygundur,Dct Trading,Diğer
-DENGE,Katılım Endeksine Uygun Değildir,Denge Holding,Holdingler
+DENGE,Katılım Endeksine Uygundur,Denge Holding,Holdingler
 DERHL,Katılım Endeksine Uygun Değildir,Derlüks Yatırım Holding,Deri Giyim
 DERIM,Katılım Endeksine Uygun Değildir,Derimod,Deri Giyim
 DESA,Katılım Endeksine Uygun Değildir,Desa Deri Sanayii,Deri Giyim
@@ -166,8 +167,9 @@ DOGUB,Katılım Endeksine Uygundur,Doğusan,İnşaat Malzemeleri
 DOHOL,Katılım Endeksine Uygun Değildir,Doğan Holding,Holdingler
 DOKTA,Katılım Endeksine Uygun Değildir,Döktaş Dökümcülük,Otomotiv Parçası
 DSTKF,Katılım Endeksine Uygun Değildir,Destek Finans Faktoring,Fin.Kiralama ve Faktoring
+DUNYH,Katılım Endeksine Uygun Değildir,Dünya Holding,Gıda
 DURDO,Katılım Endeksine Uygun Değildir,Duran Doğan Basım,Kağıt Ürünleri
-DURKN,Katılım Endeksine Uygundur,Durukan Şekerleme,Gıda
+DURKN,Katılım Endeksine Uygun Değildir,Durukan Şekerleme,Gıda
 DYOBY,Katılım Endeksine Uygundur,DYO Boya,Boya
 DZGYO,Katılım Endeksine Uygun Değildir,Deniz GYO,GYO
 EBEBK,Katılım Endeksine Uygundur,Ebebek,Perakande - Ticaret
@@ -182,7 +184,7 @@ EGEPO,Katılım Endeksine Uygundur,Egepol Hastanesi,Sağlık ve İlaç
 EGGUB,Katılım Endeksine Uygundur,Ege Gübre,Tarım Kimyasalları
 EGPRO,Katılım Endeksine Uygundur,Ege Profil,İnşaat Malzemeleri
 EGSER,Katılım Endeksine Uygun Değildir,Ege Seramik,Seramik
-EKGYO,Katılım Endeksine Uygun Değildir,Emlak Konut GYO,GYO
+EKGYO,Katılım Endeksine Uygundur,Emlak Konut GYO,GYO
 EKIZ,Katılım Endeksine Uygun Değildir,Ekiz Yağ ve Sabun,Gıda
 EKOS,Katılım Endeksine Uygun Değildir,Ekos Teknoloji,Endüstriyel Makine -Teçhizat Üretim
 EKSUN,Katılım Endeksine Uygundur,Eksun Gıda,Gıda
@@ -190,7 +192,7 @@ ELITE,Katılım Endeksine Uygundur,Elite Organik Gıda,Gıda
 EMKEL,Katılım Endeksine Uygun Değildir,Emek Elektrik,Elektrik Enerji Ürt.Teçh/Tesis Kurulum
 EMNIS,Katılım Endeksine Uygun Değildir,Eminiş Ambalaj,Boya
 ENDAE,Katılım Endeksine Uygun Değildir,Enda Enerji,Elektrik Üretim
-ENERY,Katılım Endeksine Uygundur,Enerya Enerji,Elektrik - Doğalgaz Dağıtım
+ENERY,Katılım Endeksine Uygun Değildir,Enerya Enerji,Elektrik - Doğalgaz Dağıtım
 ENJSA,Katılım Endeksine Uygundur,Enerjisa Enerji,Elektrik - Doğalgaz Dağıtım
 ENKAI,Katılım Endeksine Uygun Değildir,Enka İnşaat,İnşaat- Taahhüt
 ENSRI,Katılım Endeksine Uygun Değildir,Ensari Deri,Deri Giyim
@@ -248,7 +250,7 @@ GSDHO,Katılım Endeksine Uygun Değildir,GSD Holding A.Ş.,Holdingler
 GSRAY,Katılım Endeksine Uygun Değildir,Galatasaray Sportif A.Ş,Spor
 GUBRF,Katılım Endeksine Uygundur,Gübre Fabrikaları,Tarım Kimyasalları
 GUNDG,Katılım Endeksine Uygundur,Gündoğdu Gıda,Gıda
-GWIND,Katılım Endeksine Uygundur,Galata Wind Enerji,Elektrik Üretim
+GWIND,Katılım Endeksine Uygun Değildir,Galata Wind Enerji,Elektrik Üretim
 GZNMI,Katılım Endeksine Uygun Değildir,Gezinomi Seyahat,Turizm
 HALKB,Katılım Endeksine Uygun Değildir,Halkbank,Bankacılık
 HATEK,Katılım Endeksine Uygun Değildir,Hateks Hatay Tekstil,Tekstil Entegre
@@ -265,19 +267,19 @@ HUBVC,Katılım Endeksine Uygun Değildir,Hub Girişim Ser. Y.O.,Yatırım Ortak
 HUNER,Katılım Endeksine Uygun Değildir,Hun Enerji,Elektrik Üretim
 HURGZ,Katılım Endeksine Uygun Değildir,Hürriyet,Medya
 ICBCT,Katılım Endeksine Uygun Değildir,ICBC Turkey Bank,Bankacılık
-ICUGS,Katılım Endeksine Uygundur,Icu Girişim Ser. Y.O.,Yatırım Ortaklıkları
-IDGYO,Katılım Endeksine Uygun Değildir,İdealist GYO,GYO
+ICUGS,Katılım Endeksine Uygun Değildir,Icu Girişim Ser. Y.O.,Yatırım Ortaklıkları
+IDGYO,Katılım Endeksine Uygundur,İdealist GYO,GYO
 IEYHO,Katılım Endeksine Uygun Değildir,Işıklar Enerji ve Yapı Holding,Holdingler
 IHAAS,Katılım Endeksine Uygun Değildir,İhlas Haber Ajansı,Medya
 IHEVA,Katılım Endeksine Uygundur,İhlas Ev Aletleri,Dayanıklı Tüketim
-IHGZT,Katılım Endeksine Uygundur,İhlas Gazetecilik,Medya
+IHGZT,Katılım Endeksine Uygun Değildir,İhlas Gazetecilik,Medya
 IHLAS,Katılım Endeksine Uygundur,İhlas Holding,Holdingler
-IHLGM,Katılım Endeksine Uygun Değildir,İhlas Gayrimenkul,GYO
+IHLGM,Katılım Endeksine Uygundur,İhlas Gayrimenkul,GYO
 IHYAY,Katılım Endeksine Uygundur,İhlas Yayın Holding,Medya
 IMASM,Katılım Endeksine Uygundur,İmaş Makine,Endüstriyel Makine -Teçhizat Üretim
 INDES,Katılım Endeksine Uygun Değildir,İndeks Bilgisayar,Bilgisayar Toptancılığı
 INFO,Katılım Endeksine Uygun Değildir,İnfo Yatırım,Aracı Kurumlar
-INGRM,Katılım Endeksine Uygundur,İngram Bilişim,Bilgisayar Toptancılığı
+INGRM,Katılım Endeksine Uygun Değildir,İngram Bilişim,Bilgisayar Toptancılığı
 INTEK,Katılım Endeksine Uygun Değildir,Innosa Teknoloji,Teknoloji
 INTEM,Katılım Endeksine Uygundur,İntema,İnşaat Malzemeleri
 INVEO,Katılım Endeksine Uygun Değildir,İnveo Yatırım Holding,Holdingler
@@ -307,7 +309,7 @@ KARSN,Katılım Endeksine Uygundur,Karsan Otomotiv,Otomotiv
 KARTN,Katılım Endeksine Uygun Değildir,Kartonsan,Kağıt Ürünleri
 KATMR,Katılım Endeksine Uygundur,Katmerciler Araç Üstü Ekipman,Otomotiv Parçası
 KAYSE,Katılım Endeksine Uygun Değildir,Kayseri Şeker,Gıda
-KBORU,Katılım Endeksine Uygun Değildir,Kuzey Boru,İnşaat Malzemeleri
+KBORU,Katılım Endeksine Uygundur,Kuzey Boru,İnşaat Malzemeleri
 KCAER,Katılım Endeksine Uygundur,Kocaer Çelik Sanayi,Demir-Çelik Temel
 KCHOL,Katılım Endeksine Uygun Değildir,Koç Holding,Holdingler
 KENT,Katılım Endeksine Uygun Değildir,Kent Gıda,Gıda
@@ -323,7 +325,7 @@ KLRHO,Katılım Endeksine Uygun Değildir,Kiler Holding,Holdingler
 KLSER,Katılım Endeksine Uygun Değildir,Kaleseramik,Seramik
 KLSYN,Katılım Endeksine Uygundur,Koleksiyon Mobilya,Mobilya
 KLYPV,Katılım Endeksine Uygun Değildir,Kalyon Güneş Teknolojileri,Elektrik Enerji Ürt.Teçh/Tesis Kurulum
-KMPUR,Katılım Endeksine Uygundur,Kimteks Poliüretan,Kimyasal Ürün
+KMPUR,Katılım Endeksine Uygun Değildir,Kimteks Poliüretan,Kimyasal Ürün
 KNFRT,Katılım Endeksine Uygundur,Konfrut Gıda,Meşrubat / İçecek
 KOCMT,Katılım Endeksine Uygundur,Koç Metalurji,Demir-Çelik Temel
 KONKA,Katılım Endeksine Uygundur,Konya Kağıt,Kağıt Ürünleri
@@ -358,18 +360,18 @@ LINK,Katılım Endeksine Uygun Değildir,Link Bilgisayar,Teknoloji
 LKMNH,Katılım Endeksine Uygundur,Lokman Hekim Engurusag,Sağlık ve İlaç
 LMKDC,Katılım Endeksine Uygundur,Limak Doğu Anadolu Çimento,Çimento
 LOGO,Katılım Endeksine Uygundur,Logo Yazılım,Teknoloji
-LRSHO,Katılım Endeksine Uygundur,Loras Holding,Holdingler
-LUKSK,Katılım Endeksine Uygundur,Lüks Kadife,Tekstil Entegre
+LRSHO,Katılım Endeksine Uygun Değildir,Loras Holding,Holdingler
+LUKSK,Katılım Endeksine Uygun Değildir,Lüks Kadife,Tekstil Entegre
 LYDHO,Katılım Endeksine Uygun Değildir,Lydia Holding,Holdingler
 LYDYE,Katılım Endeksine Uygun Değildir,Tetamat Gıda,Gıda
 MAALT,Katılım Endeksine Uygun Değildir,Marmaris Altınyunus,Turizm
 MACKO,Katılım Endeksine Uygun Değildir,Maçkolik,Eğlence Hizmetleri
-MAGEN,Katılım Endeksine Uygun Değildir,Margün Enerji,Elektrik Enerji Ürt.Teçh/Tesis Kurulum
+MAGEN,Katılım Endeksine Uygundur,Margün Enerji,Elektrik Enerji Ürt.Teçh/Tesis Kurulum
 MAKIM,Katılım Endeksine Uygundur,Makim Makina,Endüstriyel Makine -Teçhizat Üretim
 MAKTK,Katılım Endeksine Uygun Değildir,Makina Takım,İnşaat Malzemeleri
-MANAS,Katılım Endeksine Uygundur,Manas Enerji Yönetimi,Teknoloji
+MANAS,Katılım Endeksine Uygun Değildir,Manas Enerji Yönetimi,Teknoloji
 MARBL,Katılım Endeksine Uygundur,Tureks Turunç,Madencilik
-MARKA,Katılım Endeksine Uygundur,Marka Yatırım Holding,Holdingler
+MARKA,Katılım Endeksine Uygun Değildir,Marka Yatırım Holding,Holdingler
 MARMR,Katılım Endeksine Uygun Değildir,Marmara Holding,Kimyasal Ürün
 MARTI,Katılım Endeksine Uygun Değildir,Martı Otel İşletmeleri,Turizm
 MAVI,Katılım Endeksine Uygundur,Mavi Giyim Sanayi Tic.A.S,Tekstil Entegre
@@ -382,7 +384,6 @@ MERCN,Katılım Endeksine Uygundur,Mercan Kimya,Kimyasal Ürün
 MERIT,Katılım Endeksine Uygun Değildir,Merit Turizm Yatırım,Turizm
 MERKO,Katılım Endeksine Uygun Değildir,Merko Gıda,Gıda
 METRO,Katılım Endeksine Uygun Değildir,Metro Tic. Mali Yat.,Holdingler
-METUR,Katılım Endeksine Uygun Değildir,Blume Metal Kimya,Turizm
 MGROS,Katılım Endeksine Uygun Değildir,Migros,Perakande - Ticaret
 MHRGY,Katılım Endeksine Uygun Değildir,Mhr GYO,GYO
 MIATK,Katılım Endeksine Uygun Değildir,Mia Teknoloji,Teknoloji
@@ -410,7 +411,7 @@ OBAMS,Katılım Endeksine Uygundur,Oba Makarnacılık,Gıda
 OBASE,Katılım Endeksine Uygundur,Obase Bilgisayar Danışmanlık,Teknoloji
 ODAS,Katılım Endeksine Uygun Değildir,Odaş Elektrik Üretim,Elektrik Üretim
 ODINE,Katılım Endeksine Uygun Değildir,Odine Solutions,Teknoloji
-OFSYM,Katılım Endeksine Uygun Değildir,Ofis Yem,Gıda
+OFSYM,Katılım Endeksine Uygundur,Ofis Yem,Gıda
 ONCSM,Katılım Endeksine Uygundur,Oncosem,Sağlık ve İlaç
 ONRYT,Katılım Endeksine Uygun Değildir,Onur Yüksek Teknoloji,Savunma
 ORCAY,Katılım Endeksine Uygun Değildir,Ortaköy Çay Sanayi,Meşrubat / İçecek
@@ -428,9 +429,9 @@ OZATD,Katılım Endeksine Uygun Değildir,Özata Denizcilik,Endüstriyel Makine 
 OZGYO,Katılım Endeksine Uygun Değildir,Özderici GYO,GYO
 OZKGY,Katılım Endeksine Uygun Değildir,Özak GYO,GYO
 OZRDN,Katılım Endeksine Uygundur,Özerden Plastik,Kimyasal Ürün
-OZSUB,Katılım Endeksine Uygundur,Özsu Balık,Hayvancılık
+OZSUB,Katılım Endeksine Uygun Değildir,Özsu Balık,Hayvancılık
 OZYSR,Katılım Endeksine Uygundur,Özyaşar Tel,Demir-Çelik Temel
-PAGYO,Katılım Endeksine Uygun Değildir,Panora GYO,GYO
+PAGYO,Katılım Endeksine Uygundur,Panora GYO,GYO
 PAMEL,Katılım Endeksine Uygun Değildir,Pamel Yenilenebilir Elekt.,Elektrik Üretim
 PAPIL,Katılım Endeksine Uygun Değildir,Papilon Savunma,Teknoloji
 PARSN,Katılım Endeksine Uygundur,Parsan,Otomotiv Parçası
@@ -447,12 +448,12 @@ PINSU,Katılım Endeksine Uygun Değildir,Pınar Su,Meşrubat / İçecek
 PKART,Katılım Endeksine Uygundur,Plastikkart A.Ş,Teknoloji
 PKENT,Katılım Endeksine Uygun Değildir,Petrokent,Turizm
 PLTUR,Katılım Endeksine Uygundur,Platform Turizm,Ulaştırma-Lojistik
-PNLSN,Katılım Endeksine Uygun Değildir,Panelsan Çatı Cephe,İnşaat Malzemeleri
+PNLSN,Katılım Endeksine Uygundur,Panelsan Çatı Cephe,İnşaat Malzemeleri
 PNSUT,Katılım Endeksine Uygun Değildir,Pınar Süt,Meşrubat / İçecek
 POLHO,Katılım Endeksine Uygundur,Polisan Holding,Holdingler
 POLTK,Katılım Endeksine Uygun Değildir,Politeknik Metal,Kimyasal Ürün
 PRDGS,Katılım Endeksine Uygun Değildir,Pardus Girişim,Yatırım Ortaklıkları
-PRKAB,Katılım Endeksine Uygundur,Prysmian Kablo,Kablo
+PRKAB,Katılım Endeksine Uygun Değildir,Prysmian Kablo,Kablo
 PRKME,Katılım Endeksine Uygun Değildir,Park Elek. Madencilik,Madencilik
 PRZMA,Katılım Endeksine Uygun Değildir,Prizma Pres Matbaacılık,Kağıt Ürünleri
 PSDTC,Katılım Endeksine Uygun Değildir,Pergamon Status,Perakande - Ticaret
@@ -460,11 +461,11 @@ PSGYO,Katılım Endeksine Uygun Değildir,Pasifik GYO,GYO
 QNBFK,Katılım Endeksine Uygun Değildir,QNB Finans Fin. Kir.,Fin.Kiralama ve Faktoring
 QNBTR,Katılım Endeksine Uygun Değildir,QNB Bank,Bankacılık
 QUAGR,Katılım Endeksine Uygundur,QUA Granite,İnşaat Malzemeleri
-RALYH,Katılım Endeksine Uygundur,Ral Yatırım Holding,Tekstil Entegre
+RALYH,Katılım Endeksine Uygun Değildir,Ral Yatırım Holding,Tekstil Entegre
 RAYSG,Katılım Endeksine Uygun Değildir,Ray Sigorta,Sigorta
 REEDR,Katılım Endeksine Uygun Değildir,Reeder,İletişim Cihazları
-RGYAS,Katılım Endeksine Uygun Değildir,Rönesans Gayrimenkul,GYO
-RNPOL,Katılım Endeksine Uygun Değildir,Rainbow Polikarbonat,Kimyasal Ürün
+RGYAS,Katılım Endeksine Uygundur,Rönesans Gayrimenkul,GYO
+RNPOL,Katılım Endeksine Uygundur,Rainbow Polikarbonat,Kimyasal Ürün
 RODRG,Katılım Endeksine Uygundur,Rodrigo Tekstil,Tekstil Entegre
 ROYAL,Katılım Endeksine Uygun Değildir,Royal Halı,Tekstil Entegre
 RTALB,Katılım Endeksine Uygun Değildir,RTA laboratuvarlari,Sağlık ve İlaç
@@ -475,10 +476,10 @@ RYSAS,Katılım Endeksine Uygun Değildir,Reysaş Taşımacılık,Ulaştırma-Lo
 SAFKR,Katılım Endeksine Uygundur,Safkar Ege Soğutmacılık,Dayanıklı Tüketim
 SAHOL,Katılım Endeksine Uygun Değildir,Sabancı Holding,Holdingler
 SAMAT,Katılım Endeksine Uygundur,Saray Matbaacılık,Kağıt Ürünleri
-SANEL,Katılım Endeksine Uygun Değildir,San-El Muhendislik,Endüstriyel Makine -Teçhizat Üretim
+SANEL,Katılım Endeksine Uygundur,San-El Muhendislik,Endüstriyel Makine -Teçhizat Üretim
 SANFM,Katılım Endeksine Uygun Değildir,Sanifoam Sünger Sanayi,Kimyasal Ürün
 SANKO,Katılım Endeksine Uygundur,Sanko Pazarlama,Pazarlama
-SARKY,Katılım Endeksine Uygun Değildir,Sarkuysan,İnşaat Malzemeleri
+SARKY,Katılım Endeksine Uygundur,Sarkuysan,İnşaat Malzemeleri
 SASA,Katılım Endeksine Uygun Değildir,Sasa Polyester Sanayi A.Ş.,Endüstriyel Tekstil
 SAYAS,Katılım Endeksine Uygundur,Say Yenilenebilir Enerji,Elektrik Enerji Ürt.Teçh/Tesis Kurulum
 SDTTR,Katılım Endeksine Uygun Değildir,SDT Uzay,Savunma
@@ -487,7 +488,6 @@ SEGYO,Katılım Endeksine Uygun Değildir,Şeker GYO,GYO
 SEKFK,Katılım Endeksine Uygun Değildir,Şeker Finansal Kiralama A.Ş,Fin.Kiralama ve Faktoring
 SEKUR,Katılım Endeksine Uygundur,Sekuro Plastik,Kimyasal Ürün
 SELEC,Katılım Endeksine Uygundur,Selçuk Ecza Deposu,Sağlık ve İlaç
-SELGD,Katılım Endeksine Uygun Değildir,Dünya Holding,Gıda
 SELVA,Katılım Endeksine Uygundur,Selva Gıda,Gıda
 SERNT,Katılım Endeksine Uygun Değildir,Seranit Granit,İnşaat Malzemeleri
 SEYKM,Katılım Endeksine Uygun Değildir,Seyitler Kimya,Kimyasal Ürün
@@ -511,10 +511,10 @@ SONME,Katılım Endeksine Uygun Değildir,Sönmez Filament,Tekstil Entegre
 SRVGY,Katılım Endeksine Uygundur,Servet GYO,GYO
 SUMAS,Katılım Endeksine Uygun Değildir,Sumas Mobilya,Mobilya
 SUNTK,Katılım Endeksine Uygundur,Sun Tekstil,Tekstil Entegre
-SURGY,Katılım Endeksine Uygun Değildir,Sur GYO,GYO
+SURGY,Katılım Endeksine Uygundur,Sur GYO,GYO
 SUWEN,Katılım Endeksine Uygundur,Suwen Tekstil,Tekstil Entegre
 TABGD,Katılım Endeksine Uygun Değildir,Tab Gıda,Gıda
-TARKM,Katılım Endeksine Uygun Değildir,Tarkim,Tarım Kimyasalları
+TARKM,Katılım Endeksine Uygundur,Tarkim,Tarım Kimyasalları
 TATEN,Katılım Endeksine Uygun Değildir,Tatlıpınar Enerji,Elektrik Üretim
 TATGD,Katılım Endeksine Uygun Değildir,Tat Gıda,Gıda
 TAVHL,Katılım Endeksine Uygun Değildir,TAV Holding,Havayolları ve Hizm.
@@ -522,14 +522,14 @@ TBORG,Katılım Endeksine Uygun Değildir,Tuborg,Meşrubat / İçecek
 TCELL,Katılım Endeksine Uygun Değildir,Turkcell,İletişim
 TCKRC,Katılım Endeksine Uygun Değildir,Kıraç Galvaniz,Diğer
 TDGYO,Katılım Endeksine Uygundur,Trend GYO,GYO
-TEHOL,Katılım Endeksine Uygundur,Tera Holding,Holdingler
+TEHOL,Katılım Endeksine Uygun Değildir,Tera Holding,Holdingler
 TEKTU,Katılım Endeksine Uygun Değildir,Tek-Art Turizm,Turizm
 TERA,Katılım Endeksine Uygun Değildir,Tera Yatırım,Aracı Kurumlar
 TEZOL,Katılım Endeksine Uygundur,Europap Tezol,Kağıt Ürünleri
 TGSAS,Katılım Endeksine Uygun Değildir,TGS Dış Ticaret,Pazarlama
 THYAO,Katılım Endeksine Uygun Değildir,Türk Hava Yolları,Havayolları ve Hizm.
-TKFEN,Katılım Endeksine Uygundur,Tekfen Holding,İnşaat- Taahhüt
-TKNSA,Katılım Endeksine Uygun Değildir,Teknosa İç ve Dış Tic.,Perakande - Ticaret
+TKFEN,Katılım Endeksine Uygun Değildir,Tekfen Holding,İnşaat- Taahhüt
+TKNSA,Katılım Endeksine Uygundur,Teknosa İç ve Dış Tic.,Perakande - Ticaret
 TLMAN,Katılım Endeksine Uygun Değildir,Trabzon Liman İşletmeciliği,Ulaştırma-Lojistik
 TMPOL,Katılım Endeksine Uygun Değildir,TE-MAPOL Polimer Plastik,Kimyasal Ürün
 TMSN,Katılım Endeksine Uygundur,Tümosan Motor ve Traktör,Otomotiv
@@ -537,7 +537,7 @@ TNZTP,Katılım Endeksine Uygundur,Tapdi Oksijen,Sağlık ve İlaç
 TOASO,Katılım Endeksine Uygun Değildir,Tofaş Fabrika,Otomotiv
 TRCAS,Katılım Endeksine Uygun Değildir,Turcas Holding,Petrol
 TRGYO,Katılım Endeksine Uygun Değildir,Torunlar GYO,GYO
-TRHOL,Katılım Endeksine Uygundur,Tera Finansal Yat. Holding,Holdingler
+TRHOL,Katılım Endeksine Uygun Değildir,Tera Finansal Yat. Holding,Holdingler
 TRILC,Katılım Endeksine Uygun Değildir,Turk İlaç ve Serum Sanayi,Sağlık ve İlaç
 TSGYO,Katılım Endeksine Uygun Değildir,TSKB GYO,GYO
 TSKB,Katılım Endeksine Uygun Değildir,TSKB,Bankacılık
@@ -548,10 +548,10 @@ TUCLK,Katılım Endeksine Uygundur,Tuğçelik Alüminyum ve Metal,Otomotiv Parç
 TUKAS,Katılım Endeksine Uygundur,Tukaş,Gıda
 TUPRS,Katılım Endeksine Uygundur,Tüpraş,Petrol
 TUREX,Katılım Endeksine Uygundur,Tureks Tur.Taşımacılık,Ulaştırma-Lojistik
-TURGG,Katılım Endeksine Uygundur,Türker Proje Gay.Gel.,GYO
+TURGG,Katılım Endeksine Uygun Değildir,Türker Proje Gay.Gel.,GYO
 TURSG,Katılım Endeksine Uygun Değildir,Türkiye Sigorta,Sigorta
 UFUK,Katılım Endeksine Uygun Değildir,Ufuk Yat.Yön.ve Gay. AŞ.,Fin.Kiralama ve Faktoring
-ULAS,Katılım Endeksine Uygun Değildir,Ulaşlar Turizm Yatırımları,Turizm
+ULAS,Katılım Endeksine Uygundur,Ulaşlar Turizm Yatırımları,Turizm
 ULKER,Katılım Endeksine Uygun Değildir,Ülker Bisküvi,Gıda
 ULUFA,Katılım Endeksine Uygun Değildir,Ulusal Faktoring,Fin.Kiralama ve Faktoring
 ULUSE,Katılım Endeksine Uygundur,Ulusoy Elektrik,Elektrik Enerji Ürt.Teçh/Tesis Kurulum
@@ -567,12 +567,12 @@ VBTYZ,Katılım Endeksine Uygun Değildir,VBT Yazılım,Teknoloji
 VERTU,Katılım Endeksine Uygun Değildir,Verusatürk Girişim Sermayesi,Yatırım Ortaklıkları
 VERUS,Katılım Endeksine Uygun Değildir,Verusa Holding,Holdingler
 VESBE,Katılım Endeksine Uygundur,Vestel Beyaz Esya,Dayanıklı Tüketim
-VESTL,Katılım Endeksine Uygundur,Vestel Elektronik,Dayanıklı Tüketim
+VESTL,Katılım Endeksine Uygun Değildir,Vestel Elektronik,Dayanıklı Tüketim
 VKFYO,Katılım Endeksine Uygun Değildir,Vakıf YO,Yatırım Ortaklıkları
 VKGYO,Katılım Endeksine Uygun Değildir,Vakıf GYO,GYO
 VKING,Katılım Endeksine Uygun Değildir,Viking Kağıt,Kağıt Ürünleri
-VRGYO,Katılım Endeksine Uygun Değildir,Vera GYO,GYO
-VSNMD,Katılım Endeksine Uygundur,Vişne Madencilik,Madencilik
+VRGYO,Katılım Endeksine Uygundur,Vera GYO,GYO
+VSNMD,Katılım Endeksine Uygun Değildir,Vişne Madencilik,Madencilik
 YAPRK,Katılım Endeksine Uygun Değildir,Yaprak Süt & Besi Çiftlikleri,Gıda
 YATAS,Katılım Endeksine Uygundur,Yataş Yatak,Mobilya
 YAYLA,Katılım Endeksine Uygun Değildir,Yayla Enerji Uretim Turizm,Elektrik Üretim
