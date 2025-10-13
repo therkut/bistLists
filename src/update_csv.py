@@ -1,30 +1,39 @@
-def update_csv(fetched_data, csv_file_path):
-    import pandas as pd
-    import os
+import os
+import logging
+import pandas as pd
+from typing import List, Dict, Any
 
-    # Create 'data' directory if it doesn't exist
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s [%(levelname)s] %(message)s'
+)
+
+def update_csv(fetched_data: List[Dict[str, Any]], csv_file_path: str) -> None:
+    """
+    CSV dosyasını günceller. Eğer veri değişmemişse dosya güncellenmez.
+    """
+    # Gerekirse dizini oluştur
     os.makedirs(os.path.dirname(csv_file_path), exist_ok=True)
 
-    # Load existing data
+    # Mevcut veriyi yükle
     if os.path.exists(csv_file_path):
         try:
             existing_data = pd.read_csv(csv_file_path)
         except Exception as e:
-            print(f"Error reading existing CSV file: {e}")
+            logging.warning(f"CSV dosyası okunamadı: {e}")
             existing_data = pd.DataFrame()
     else:
         existing_data = pd.DataFrame()
 
-    # Convert new data to DataFrame
+    # Yeni veriyi DataFrame olarak oluştur
     new_data = pd.DataFrame(fetched_data)
 
-    # Check for changes
+    # Değişiklik kontrolü
     if existing_data.empty or not existing_data.equals(new_data):
         try:
-            # Write new data to CSV
             new_data.to_csv(csv_file_path, index=False)
-            print(f"CSV file '{csv_file_path}' updated successfully.")
+            logging.info(f"CSV dosyası '{csv_file_path}' başarıyla güncellendi.")
         except Exception as e:
-            print(f"Error writing to CSV file '{csv_file_path}': {e}")
+            logging.error(f"CSV dosyasına yazılamadı '{csv_file_path}': {e}")
     else:
-        print(f"No changes detected. CSV file '{csv_file_path}' remains the same.")
+        logging.info(f"Değişiklik yok. CSV dosyası '{csv_file_path}' aynı kaldı.")
