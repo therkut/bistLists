@@ -88,7 +88,7 @@ BFREN,Katılım Endeksine Uygun Değildir,Bosch Fren,Otomotiv Parçası,64303274
 BIENY,Katılım Endeksine Uygundur,Bien Yapı,Seramik,154507906,2023-05-12,2023-05-18
 BIGCH,Katılım Endeksine Uygun Değildir,BigChefs,Gıda,154104901,2023-05-05,2023-05-10
 BIGEN,Katılım Endeksine Uygun Değildir,Birleşim Grup Enerji,Elektrik Üretim,181989828,2025-02-05,
-BIGTK,Katılım Endeksine Uygun Değildir,Big Medya,Medya,,,
+BIGTK,Katılım Endeksine Uygun Değildir,Big Medya,Medya,64303402,2000-03-21,
 BIMAS,Katılım Endeksine Uygundur,Bim Birleşik Mağazalar A.Ş,Perakande - Ticaret,6497856,2005-07-08,2005-07-15
 BINBN,Katılım Endeksine Uygundur,BinBin,Ulaştırma-Lojistik,176430138,,2024-10-09
 BINHO,Katılım Endeksine Uygundur,1000 Yatırımlar,Holdingler,161917073,2023-11-20,2023-11-20
@@ -174,11 +174,11 @@ DYOBY,Katılım Endeksine Uygundur,DYO Boya,Boya,64303690,1987-08-12,1987-08-12
 DZGYO,Katılım Endeksine Uygun Değildir,Deniz GYO,GYO,64303682,1995-10-23,
 EBEBK,Katılım Endeksine Uygundur,Ebebek,Perakande - Ticaret,158664611,2023-09-06,2023-09-07
 ECILC,Katılım Endeksine Uygun Değildir,Eczacıbaşı İlaç,Sağlık ve İlaç,64302943,1990-06-25,1990-06-25
-ECOGR,Katılım Endeksine Uygun Değildir,Ecogreen,Elektrik Üretim,,,
+ECOGR,Katılım Endeksine Uygun Değildir,Ecogreen,Elektrik Üretim,197999378,2025-11-24,
 ECZYT,Katılım Endeksine Uygun Değildir,Eczacıbaşı Yatırım,Holdingler,64303328,1986-01-13,1986-01-13
 EDATA,Katılım Endeksine Uygundur,E-Data Teknoloji,Teknoloji,124598723,2021-06-29,
 EDIP,Katılım Endeksine Uygundur,Edip Gayrimenkul Yat. San.,GYO,64303329,1991-01-18,1990-12-10
-EFOR,Katılım Endeksine Uygundur,Efor Yat. San.,Gıda,,,
+EFOR,Katılım Endeksine Uygundur,Efor Yat. San.,Gıda,171749416,2024-07-05,
 EGEEN,Katılım Endeksine Uygun Değildir,Ege Endüstri,Otomotiv Parçası,64303330,1986-10-31,1986-10-31
 EGEGY,Katılım Endeksine Uygun Değildir,Egeyapı GYO,GYO,44136983,1997-09-10,
 EGEPO,Katılım Endeksine Uygundur,Egepol Hastanesi,Sağlık ve İlaç,64303331,2021-08-26,
@@ -430,7 +430,7 @@ OZRDN,Katılım Endeksine Uygundur,Özerden Plastik,Kimyasal Ürün,64309401,201
 OZSUB,Katılım Endeksine Uygun Değildir,Özsu Balık,Hayvancılık,147680266,2022-11-23,
 OZYSR,Katılım Endeksine Uygundur,Özyaşar Tel,Demir-Çelik Temel,170351885,,2024-05-29
 PAGYO,Katılım Endeksine Uygundur,Panora GYO,GYO,124221589,2013-05-17,2013-05-23
-PAHOL,Katılım Endeksine Uygun Değildir,Pasifik Holding,Holdingler,,,
+PAHOL,Katılım Endeksine Uygun Değildir,Pasifik Holding,Holdingler,199271638,2025-11-14,
 PAMEL,Katılım Endeksine Uygun Değildir,Pamel Yenilenebilir Elekt.,Elektrik Üretim,64309150,2014-06-09,2014-06-13
 PAPIL,Katılım Endeksine Uygun Değildir,Papilon Savunma,Teknoloji,23377703,2019-11-29,
 PARSN,Katılım Endeksine Uygundur,Parsan,Otomotiv Parçası,64303050,1990-10-16,1990-10-16
@@ -562,7 +562,7 @@ UMPAS,Katılım Endeksine Uygun Değildir,Umpaş Holding,Holdingler,120972184,20
 UNLU,Katılım Endeksine Uygun Değildir,Ünlü Yatırım Holding,Aracı Kurumlar,124598721,2022-06-01,
 USAK,Katılım Endeksine Uygundur,Uşak Seramik,Seramik,9938392,1990-11-28,1990-11-30
 VAKBN,Katılım Endeksine Uygun Değildir,Vakıfbank,Bankacılık,6498365,,2005-11-18
-VAKFA,Katılım Endeksine Uygun Değildir,Vakıf Faktoring,Fin.Kiralama ve Faktoring,,,
+VAKFA,Katılım Endeksine Uygun Değildir,Vakıf Faktoring,Fin.Kiralama ve Faktoring,199271639,2025-11-14,
 VAKFN,Katılım Endeksine Uygun Değildir,Vakıf Fin. Kir.,Fin.Kiralama ve Faktoring,64303279,1991-04-24,1991-04-24
 VAKKO,Katılım Endeksine Uygundur,Vakko Tekstil,Perakande - Ticaret,64303281,1998-03-30,1998-04-03
 VANGD,Katılım Endeksine Uygundur,Vanet Gıda Sanayi,Gıda,64308283,,2011-08-18
