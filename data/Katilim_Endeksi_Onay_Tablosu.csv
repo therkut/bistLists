@@ -45,6 +45,7 @@ ARASE,Katılım Endeksine Uygundur,Doğu Aras Enerji,Elektrik - Doğalgaz Dağı
 ARCLK,Katılım Endeksine Uygun Değildir,Arçelik,Dayanıklı Tüketim,6494481,1986-01-21,1986-01-21
 ARDYZ,Katılım Endeksine Uygundur,ARD Grup Bilişim,Teknoloji,120976300,2020-01-30,2020-02-06
 ARENA,Katılım Endeksine Uygun Değildir,Arena Bilgisayar,Bilgisayar Toptancılığı,64303859,2000-10-26,2000-11-02
+ARFYE,Katılım Endeksine Uygundur,Arf Bio Enerji,Elektrik Üretim,,,
 ARMGD,Katılım Endeksine Uygun Değildir,Armada Gıda,Gıda,180617334,2025-01-03,
 ARSAN,Katılım Endeksine Uygun Değildir,Arsan Tekstil,Tekstil Entegre,9938461,1998-06-25,1998-06-25
 ARTMS,Katılım Endeksine Uygun Değildir,Artemis Halı,Tekstil Entegre,166446328,2024-03-04,
@@ -222,6 +223,7 @@ FONET,Katılım Endeksine Uygundur,Fonet Bilgi Teknolojileri,Teknoloji,120974003
 FORMT,Katılım Endeksine Uygundur,Formet Metal ve Cam Sanayii,İnşaat Malzemeleri,120974845,,2018-05-22
 FORTE,Katılım Endeksine Uygundur,Forte Bilgi İletişim,Teknoloji,155430253,2023-06-14,2023-06-14
 FRIGO,Katılım Endeksine Uygun Değildir,Frigo Pak Gıda,Gıda,64303686,1995-04-06,1995-04-25
+FRMPL,Katılım Endeksine Uygundur,Formül Plastik,Kimyasal Ürün,,,
 FROTO,Katılım Endeksine Uygun Değildir,Ford Otosan,Otomotiv,6491722,1986-01-13,1986-01-13
 FZLGY,Katılım Endeksine Uygundur,Fuzul Gayrimenkul,GYO,157133366,2023-07-21,
 GARAN,Katılım Endeksine Uygun Değildir,Garanti Bankası,Bankacılık,6491729,1990-06-06,1990-06-06
@@ -382,6 +384,7 @@ MERCN,Katılım Endeksine Uygundur,Mercan Kimya,Kimyasal Ürün,124598716,2021-0
 MERIT,Katılım Endeksine Uygun Değildir,Merit Turizm Yatırım,Turizm,12739087,2012-11-27,
 MERKO,Katılım Endeksine Uygun Değildir,Merko Gıda,Gıda,64303001,1994-10-06,
 METRO,Katılım Endeksine Uygun Değildir,Metro Tic. Mali Yat.,Holdingler,46536001,,1998-03-12
+MEYSU,Katılım Endeksine Uygundur,Meysu Gıda,Gıda,,,
 MGROS,Katılım Endeksine Uygun Değildir,Migros,Perakande - Ticaret,6495192,1991-02-27,
 MHRGY,Katılım Endeksine Uygun Değildir,Mhr GYO,GYO,160307304,2023-10-18,2023-10-18
 MIATK,Katılım Endeksine Uygun Değildir,Mia Teknoloji,Teknoloji,129445194,2021-11-16,2021-11-22
@@ -466,7 +469,6 @@ REEDR,Katılım Endeksine Uygun Değildir,Reeder,İletişim Cihazları,159194896
 RGYAS,Katılım Endeksine Uygundur,Rönesans Gayrimenkul,GYO,168394836,2024-04-26,
 RNPOL,Katılım Endeksine Uygundur,Rainbow Polikarbonat,Kimyasal Ürün,130481537,2021-12-01,2021-12-06
 RODRG,Katılım Endeksine Uygundur,Rodrigo Tekstil,Tekstil Entegre,64308898,2013-07-30,2013-08-13
-ROYAL,Katılım Endeksine Uygun Değildir,Royal Halı,Tekstil Entegre,64308765,,2013-05-03
 RTALB,Katılım Endeksine Uygun Değildir,RTA laboratuvarlari,Sağlık ve İlaç,64309142,2014-05-27,
 RUBNS,Katılım Endeksine Uygundur,Rubenis Tekstil,Tekstil Entegre,140490209,2022-07-06,2022-07-06
 RUZYE,Katılım Endeksine Uygun Değildir,Ruzy Madencilik ve Enerji,Madencilik,64303677,2000-05-17,
@@ -501,7 +503,7 @@ SMRTG,Katılım Endeksine Uygundur,Smart Güneş Enerjisi,Elektrik Enerji Ürt.T
 SMRVA,Katılım Endeksine Uygun Değildir,Sümer Varlık Yönetim,Varlık Yönetim,180030706,2024-12-18,
 SNGYO,Katılım Endeksine Uygundur,Sinpas GYO,GYO,64306319,2007-06-15,2007-06-22
 SNICA,Katılım Endeksine Uygundur,Sanica Isı Sanayi,Dayanıklı Tüketim,146900594,2022-11-18,
-SNKRN,Katılım Endeksine Uygun Değildir,Senkron Güvenlik,Teknoloji,64309410,2015-02-27,2015-03-04
+SNKRN,Katılım Endeksine Uygun Değildir,Gate Group,Teknoloji,64309410,2015-02-27,2015-03-04
 SNPAM,Katılım Endeksine Uygun Değildir,Sönmez Pamuklu,Tekstil Entegre,64303268,1994-12-12,1994-12-26
 SODSN,Katılım Endeksine Uygun Değildir,Sodaş Sodyum Sanayii,Kimyasal Ürün,120969699,,2012-05-31
 SOKE,Katılım Endeksine Uygundur,Söke Değirmencilik,Gıda,64303313,2000-04-26,2000-04-26
@@ -552,13 +554,13 @@ TUPRS,Katılım Endeksine Uygundur,Tüpraş,Petrol,6493639,1991-05-30,
 TUREX,Katılım Endeksine Uygundur,Tureks Tur.Taşımacılık,Ulaştırma-Lojistik,121299605,2021-04-02,
 TURGG,Katılım Endeksine Uygun Değildir,Türker Proje Gay.Gel.,GYO,120970374,2013-07-22,2013-07-24
 TURSG,Katılım Endeksine Uygun Değildir,Türkiye Sigorta,Sigorta,120961744,1994-11-14,1995-01-25
+UCAYM,Katılım Endeksine Uygundur,Üçay Mühendislik,Diğer,,,
 UFUK,Katılım Endeksine Uygun Değildir,Ufuk Yat.Yön.ve Gay. AŞ.,Fin.Kiralama ve Faktoring,64303701,,2006-11-09
 ULAS,Katılım Endeksine Uygundur,Ulaşlar Turizm Yatırımları,Turizm,120969744,2012-07-30,2012-08-06
 ULKER,Katılım Endeksine Uygun Değildir,Ülker Bisküvi,Gıda,6497298,1996-10-14,2004-02-23
 ULUFA,Katılım Endeksine Uygun Değildir,Ulusal Faktoring,Fin.Kiralama ve Faktoring,128847086,2021-11-05,
 ULUSE,Katılım Endeksine Uygundur,Ulusoy Elektrik,Elektrik Enerji Ürt.Teçh/Tesis Kurulum,120972215,2014-11-13,
 ULUUN,Katılım Endeksine Uygun Değildir,Ulusoy Un,Gıda,120972214,2014-11-14,2014-11-20
-UMPAS,Katılım Endeksine Uygun Değildir,Umpaş Holding,Holdingler,120972184,2014-12-18,2014-12-18
 UNLU,Katılım Endeksine Uygun Değildir,Ünlü Yatırım Holding,Aracı Kurumlar,124598721,2022-06-01,
 USAK,Katılım Endeksine Uygundur,Uşak Seramik,Seramik,9938392,1990-11-28,1990-11-30
 VAKBN,Katılım Endeksine Uygun Değildir,Vakıfbank,Bankacılık,6498365,,2005-11-18
@@ -592,6 +594,7 @@ YUNSA,Katılım Endeksine Uygundur,Yünsa,Tekstil Entegre,64303650,1990-04-06,19
 YYAPI,Katılım Endeksine Uygun Değildir,Yesil Yapi,İnşaat- Taahhüt,64303316,2004-03-02,
 YYLGD,Katılım Endeksine Uygun Değildir,Yayla Agro Gıda,Gıda,137697464,2022-05-20,2022-05-20
 ZEDUR,Katılım Endeksine Uygundur,Zedur Enerji,Elektrik Üretim,120964683,,2010-11-05
-ZERGY,Katılım Endeksine Uygundur,Zeray GYO,GYO,,,
+ZERGY,Katılım Endeksine Uygundur,Zeray GYO,GYO,200879455,,2025-12-18
+ZGYO,Katılım Endeksine Uygun Değildir,Z GYO,GYO,,,
 ZOREN,Katılım Endeksine Uygun Değildir,Zorlu Enerji,Elektrik Üretim,6494311,2000-05-17,2022-11-14
 ZRGYO,Katılım Endeksine Uygun Değildir,Ziraat GYO,GYO,122419127,2021-04-30,2021-05-06
