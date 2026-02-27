@@ -4,6 +4,7 @@ from io import StringIO
 from typing import List
 import pandas as pd
 import requests
+import certifi
 from bs4 import BeautifulSoup
 
 # Logger configuration
@@ -18,9 +19,19 @@ DATA_DIR = "data"
 os.makedirs(DATA_DIR, exist_ok=True)
 
 def get_table_from_url(url: str, table_index: int = 0) -> pd.DataFrame:
-    """Belirtilen URL'den tabloyu çekip DataFrame olarak döner."""
-    response = requests.get(url)
-    response.raise_for_status()
+    """Belirtilen URL'den tabloyu çekip DataFrame olarak döner.
+
+    Uses the `certifi` CA bundle for SSL verification and falls back to
+    an insecure request (with a warning) if certificate verification fails.
+    """
+    try:
+        response = requests.get(url, timeout=15, verify=certifi.where())
+        response.raise_for_status()
+    except requests.exceptions.SSLError as e:
+        logger.warning(f"SSL verification failed for {url}: {e}. Retrying without verification (insecure).")
+        response = requests.get(url, timeout=15, verify=False)
+        response.raise_for_status()
+
     soup = BeautifulSoup(response.text, "html.parser")
     tables = soup.find_all("table")
     if not tables or len(tables) <= table_index:
