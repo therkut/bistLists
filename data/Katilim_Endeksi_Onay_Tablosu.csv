@@ -20,7 +20,7 @@ AKFGY,Katılım Endeksine Uygun Değildir,Akfen GYO,GYO,64308214,2011-05-06,2011
 AKFIS,Katılım Endeksine Uygun Değildir,Akfen İnşaat,İnşaat- Taahhüt,181275343,2025-01-23,
 AKFYE,Katılım Endeksine Uygundur,Akfen Yenilenebilir Enerji,Elektrik Üretim,151680380,2023-03-10,2023-03-16
 AKGRT,Katılım Endeksine Uygun Değildir,Aksigorta,Sigorta,6491712,1994-11-23,1994-11-23
-AKHAN,Katılım Endeksine Uygundur,Akhan Un,Gıda,,,
+AKHAN,Katılım Endeksine Uygundur,Akhan Un,Gıda,203428079,,2026-02-06
 AKMGY,Katılım Endeksine Uygun Değildir,Akmerkez GYO,GYO,64304822,2005-04-15,2005-04-15
 AKSA,Katılım Endeksine Uygundur,Aksa,Endüstriyel Tekstil,6495178,1986-09-22,1986-01-13
 AKSEN,Katılım Endeksine Uygun Değildir,Aksa Enerji,Elektrik Üretim,6914251,2010-05-14,2010-05-21
@@ -58,7 +58,7 @@ ASUZU,Katılım Endeksine Uygun Değildir,Anadolu Isuzu,Otomotiv,64303286,1997-0
 ATAGY,Katılım Endeksine Uygun Değildir,Ata GYO,GYO,64304011,1997-10-01,1997-10-09
 ATAKP,Katılım Endeksine Uygundur,Atakey Patates,Gıda,157133365,2023-07-21,
 ATATP,Katılım Endeksine Uygundur,ATP Bilgisayar,Teknoloji,124598717,2021-05-28,2021-06-04
-ATATR,Katılım Endeksine Uygun Değildir,Ata Turizm,Turizm,,,
+ATATR,Katılım Endeksine Uygun Değildir,Ata Turizm,Turizm,,2026-02-19,
 ATEKS,Katılım Endeksine Uygun Değildir,Akın Tekstil,Tekstil Entegre,64303179,1996-04-18,1996-05-02
 ATLAS,Katılım Endeksine Uygun Değildir,Atlas YO,Yatırım Ortaklıkları,64304013,1994-01-25,1994-02-28
 ATSYH,Katılım Endeksine Uygun Değildir,Atlantis YO,Holdingler,64304010,1995-05-15,
@@ -86,7 +86,7 @@ BAYRK,Katılım Endeksine Uygun Değildir,Bayrak EBT Taban,Tekstil Entegre,12097
 BEGYO,Katılım Endeksine Uygundur,Batı Ege GYO,GYO,162598862,,2023-12-08
 BERA,Katılım Endeksine Uygundur,Bera Holding,Holdingler,64308645,,2012-11-23
 BESLR,Katılım Endeksine Uygun Değildir,Besler Gıda,Gıda,64303695,,1994-05-13
-BESTE,Katılım Endeksine Uygundur,Best Brands Grup,Elektrik Üretim,,,
+BESTE,Katılım Endeksine Uygundur,Best Brands Grup,Elektrik Üretim,203718689,,2026-02-11
 BEYAZ,Katılım Endeksine Uygun Değildir,Beyaz Filo,Ulaştırma-Lojistik,64308431,2012-03-22,
 BFREN,Katılım Endeksine Uygun Değildir,Bosch Fren,Otomotiv Parçası,64303274,1993-12-02,1993-11-22
 BIENY,Katılım Endeksine Uygundur,Bien Yapı,Seramik,154507906,2023-05-12,2023-05-18
@@ -196,7 +196,7 @@ EKSUN,Katılım Endeksine Uygundur,Eksun Gıda,Gıda,152054127,2023-03-17,
 ELITE,Katılım Endeksine Uygundur,Elite Organik Gıda,Gıda,129457840,2021-11-09,
 EMKEL,Katılım Endeksine Uygun Değildir,Emek Elektrik,Elektrik Enerji Ürt.Teçh/Tesis Kurulum,64303689,1998-05-07,1998-05-07
 EMNIS,Katılım Endeksine Uygun Değildir,Eminiş Ambalaj,Boya,64303351,1995-12-13,1995-12-18
-EMPAE,Katılım Endeksine Uygundur,Empa Elektronik,Teknoloji,,,
+EMPAE,Katılım Endeksine Uygundur,Empa Elektronik,Teknoloji,204312338,,2026-02-26
 ENDAE,Katılım Endeksine Uygun Değildir,Enda Enerji,Elektrik Üretim,182127534,2025-02-13,
 ENERY,Katılım Endeksine Uygun Değildir,Enerya Enerji,Elektrik - Doğalgaz Dağıtım,158058250,2023-08-16,2023-08-23
 ENJSA,Katılım Endeksine Uygundur,Enerjisa Enerji,Elektrik - Doğalgaz Dağıtım,42859344,2018-02-02,2018-02-08
@@ -407,7 +407,7 @@ MTRYO,Katılım Endeksine Uygun Değildir,Metro YO,Yatırım Ortaklıkları,6430
 MZHLD,Katılım Endeksine Uygun Değildir,Mazhar Zorlu Holding,İnşaat Malzemeleri,64303184,1997-09-17,
 NATEN,Katılım Endeksine Uygun Değildir,Naturel Yenilenebilir Enerji,Elektrik Enerji Ürt.Teçh/Tesis Kurulum,120975940,2019-08-01,2019-08-08
 NETAS,Katılım Endeksine Uygundur,Netaş,İletişim Cihazları,64303203,1993-03-03,
-NETCD,Katılım Endeksine Uygun Değildir,Netcad Yazılım,Teknoloji,,,
+NETCD,Katılım Endeksine Uygun Değildir,Netcad Yazılım,Teknoloji,203428080,2026-02-05,
 NIBAS,Katılım Endeksine Uygun Değildir,Niğde Beton Sanayi,Çimento,64308445,2012-02-27,2012-03-05
 NTGAZ,Katılım Endeksine Uygundur,Naturel Gaz,Petrol,121299604,2021-03-28,2021-04-01
 NTHOL,Katılım Endeksine Uygun Değildir,Net Holding,Holdingler,6494577,1989-10-05,1989-10-05
