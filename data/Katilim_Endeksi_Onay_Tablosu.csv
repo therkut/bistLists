@@ -232,9 +232,11 @@ FROTO,Katılım Endeksine Uygun Değildir,Ford Otosan,Otomotiv,6491722,1986-01-1
 FZLGY,Katılım Endeksine Uygundur,Fuzul Gayrimenkul,GYO,157133366,2023-07-21,
 GARAN,Katılım Endeksine Uygun Değildir,Garanti Bankası,Bankacılık,6491729,1990-06-06,1990-06-06
 GARFA,Katılım Endeksine Uygun Değildir,Garanti BBVA Faktoring,Fin.Kiralama ve Faktoring,6500534,1993-11-29,1993-12-20
+GATEG,Katılım Endeksine Uygun Değildir,Gate Group,Medya,,,
 GEDIK,Katılım Endeksine Uygun Değildir,Gedik Yatırım,Aracı Kurumlar,9938562,2010-07-21,2023-09-04
 GEDZA,Katılım Endeksine Uygundur,Gediz Ambalaj Sanayi,Kimyasal Ürün,120970695,,2014-01-21
 GENIL,Katılım Endeksine Uygundur,Gen İlaç,Sağlık ve İlaç,126415361,2021-07-30,
+GENKM,Katılım Endeksine Uygundur,Gentaş Kimya,Kimyasal Ürün,,,
 GENTS,Katılım Endeksine Uygundur,Gentaş,Mobilya,64303356,1990-02-02,1990-02-02
 GEREL,Katılım Endeksine Uygundur,Gersan Elektrik,Kablo,64304490,2003-05-05,2003-05-11
 GESAN,Katılım Endeksine Uygundur,Girişim Elektrik,Elektrik Enerji Ürt.Teçh/Tesis Kurulum,126415364,2021-08-13,
@@ -366,6 +368,7 @@ LMKDC,Katılım Endeksine Uygundur,Limak Doğu Anadolu Çimento,Çimento,1657530
 LOGO,Katılım Endeksine Uygundur,Logo Yazılım,Teknoloji,9938281,2000-05-01,
 LRSHO,Katılım Endeksine Uygun Değildir,Loras Holding,Holdingler,64307709,1994-06-28,
 LUKSK,Katılım Endeksine Uygun Değildir,Lüks Kadife,Tekstil Entegre,64303369,1991-04-29,1991-05-14
+LXGYO,Katılım Endeksine Uygundur,Luxera GYO,GYO,,,
 LYDHO,Katılım Endeksine Uygun Değildir,Lydia Holding,Holdingler,64303698,1993-09-24,
 LYDYE,Katılım Endeksine Uygun Değildir,Lydia Yeşil Enerji,Gıda,64308563,2012-11-10,
 MAALT,Katılım Endeksine Uygun Değildir,Marmaris Altınyunus,Turizm,64303181,1987-08-28,1987-08-28
@@ -379,6 +382,7 @@ MARKA,Katılım Endeksine Uygun Değildir,Marka Yatırım Holding,Holdingler,643
 MARMR,Katılım Endeksine Uygun Değildir,Marmara Holding,Kimyasal Ürün,195450967,2025-09-16,
 MARTI,Katılım Endeksine Uygun Değildir,Martı Otel İşletmeleri,Turizm,64307870,1990-02-09,1990-02-09
 MAVI,Katılım Endeksine Uygundur,Mavi Giyim Sanayi Tic.A.S,Tekstil Entegre,37412325,2017-06-09,
+MCARD,Katılım Endeksine Uygundur,MetropolCard,Teknoloji,,,
 MEDTR,Katılım Endeksine Uygundur,Meditera Tıbbi Malzeme,Sağlık ve İlaç,124598725,2021-06-25,2021-07-02
 MEGAP,Katılım Endeksine Uygun Değildir,Mega Polietilen Köpük,Tekstil Entegre,64308449,2012-08-08,
 MEGMT,Katılım Endeksine Uygun Değildir,Mega Metal,İnşaat Malzemeleri,162798612,,2023-12-15
@@ -402,7 +406,7 @@ MPARK,Katılım Endeksine Uygundur,MLP Sağlık Hizmetleri,Sağlık ve İlaç,42
 MRGYO,Katılım Endeksine Uygun Değildir,Martı GYO,GYO,64307870,2010-09-24,2010-09-24
 MRSHL,Katılım Endeksine Uygun Değildir,Marshall,Boya,64303183,1990-10-17,1990-11-07
 MSGYO,Katılım Endeksine Uygun Değildir,Mistral GYO,GYO,120973827,2017-01-12,2017-01-19
-MTRKS,Katılım Endeksine Uygun Değildir,Matriks Bilgi Dağıtım,Teknoloji,121299606,2021-03-31,2021-04-06
+MTRKS,Katılım Endeksine Uygun Değildir,Matriks Finansal Teknolojiler,Teknoloji,121299606,2021-03-31,2021-04-06
 MTRYO,Katılım Endeksine Uygun Değildir,Metro YO,Yatırım Ortaklıkları,64304003,1999-01-12,1999-01-12
 MZHLD,Katılım Endeksine Uygun Değildir,Mazhar Zorlu Holding,İnşaat Malzemeleri,64303184,1997-09-17,
 NATEN,Katılım Endeksine Uygun Değildir,Naturel Yenilenebilir Enerji,Elektrik Enerji Ürt.Teçh/Tesis Kurulum,120975940,2019-08-01,2019-08-08
@@ -518,6 +522,7 @@ SUMAS,Katılım Endeksine Uygun Değildir,Sumas Mobilya,Mobilya,120974669,2018-0
 SUNTK,Katılım Endeksine Uygundur,Sun Tekstil,Tekstil Entegre,137604542,2022-05-20,2022-05-20
 SURGY,Katılım Endeksine Uygundur,Sur GYO,GYO,162798611,,2023-12-14
 SUWEN,Katılım Endeksine Uygundur,Suwen Tekstil,Tekstil Entegre,136638982,2022-04-21,
+SVGYO,Katılım Endeksine Uygun Değildir,Savur GYO,GYO,,,
 TABGD,Katılım Endeksine Uygun Değildir,Tab Gıda,Gıda,160626565,,2023-10-26
 TARKM,Katılım Endeksine Uygundur,Tarkim,Tarım Kimyasalları,159005038,2023-09-06,2023-09-12
 TATEN,Katılım Endeksine Uygun Değildir,Tatlıpınar Enerji,Elektrik Üretim,157824130,2023-08-17,2023-08-17
