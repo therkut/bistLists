@@ -1,6 +1,7 @@
 ﻿stock,Onay,Hisse Adı,Sektör,id,Halka Arz Tarihi,İlk İşlem Tarihi
 A1CAP,Katılım Endeksine Uygun Değildir,A1 Capital,Aracı Kurumlar,155430255,2023-06-09,
 A1YEN,Katılım Endeksine Uygun Değildir,Kartal Yenilenebili Enerji,Elektrik Üretim,125137951,2021-07-12,
+AAGYO,Katılım Endeksine Uygundur,Ağaoğlu GYO,GYO,,,
 ACSEL,Katılım Endeksine Uygundur,Acıselsan Acıpayam Selüloz,Kimyasal Ürün,64308569,,2012-07-06
 ADEL,Katılım Endeksine Uygun Değildir,Adel Kalemcilik,Kırtasiye,9938297,1996-06-06,1996-06-17
 ADESE,Katılım Endeksine Uygun Değildir,Adese AVM,GYO,64308327,2011-10-27,
@@ -201,6 +202,7 @@ ENDAE,Katılım Endeksine Uygun Değildir,Enda Enerji,Elektrik Üretim,182127534
 ENERY,Katılım Endeksine Uygun Değildir,Enerya Enerji,Elektrik - Doğalgaz Dağıtım,158058250,2023-08-16,2023-08-23
 ENJSA,Katılım Endeksine Uygundur,Enerjisa Enerji,Elektrik - Doğalgaz Dağıtım,42859344,2018-02-02,2018-02-08
 ENKAI,Katılım Endeksine Uygun Değildir,Enka İnşaat,İnşaat- Taahhüt,6491719,1986-01-01,
+ENPRA,Katılım Endeksine Uygun Değildir,Enpara,Bankacılık,,,
 ENSRI,Katılım Endeksine Uygun Değildir,Ensari Deri,Deri Giyim,134953127,2022-03-22,
 ENTRA,Katılım Endeksine Uygun Değildir,Ic Enterra Yenilenebilir,Elektrik Üretim,18278856,2024-03-29,
 EPLAS,Katılım Endeksine Uygun Değildir,Egeplast,İnşaat Malzemeleri,64303333,1994-03-03,
