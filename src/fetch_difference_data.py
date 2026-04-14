@@ -67,6 +67,35 @@ def fetch_and_process_difference_data() -> pd.DataFrame:
         f.write(",\n".join(stock_list) + ",")
     logger.info(f"✅ {len(stock_list)} tekil hisse adı {DATA_DIR}/stockall.txt dosyasına kaydedildi.")
 
+    # all_data.csv güncelle
+    all_data_path = f"{DATA_DIR}/all_data.csv"
+    all_data_cols = ["stock", "id", "ipoDate", "firstTradeDate"]
+    if os.path.exists(all_data_path):
+        all_data = pd.read_csv(all_data_path, dtype=str).fillna("")
+        for col in all_data_cols:
+            if col not in all_data.columns:
+                all_data[col] = ""
+        all_data["stock"] = all_data["stock"].str.strip()
+    else:
+        all_data = pd.DataFrame(columns=all_data_cols)
+
+    existing_stocks = set(all_data["stock"])
+    new_stocks = [s.strip() for s in stock_list if s.strip() not in existing_stocks]
+    if new_stocks:
+        new_rows = pd.DataFrame(
+            {"stock": new_stocks, "id": "", "ipoDate": "", "firstTradeDate": ""}
+        )
+        all_data = pd.concat([all_data, new_rows], ignore_index=True)
+        sample = new_stocks[:5]
+        logger.info(
+            f"✅ {len(new_stocks)} yeni hisse all_data.csv dosyasına eklendi "
+            f"(ilk 5: {sample}{'...' if len(new_stocks) > 5 else ''})."
+        )
+    else:
+        logger.info("✅ all_data.csv güncel, yeni hisse yok.")
+
+    save_csv(all_data[all_data_cols], all_data_path)
+
     # Katılım onayı
     katilim_stocks_set = set(katilim_df["stock"])
     all_stocks_df["Onay"] = all_stocks_df["stock"].apply(
@@ -79,21 +108,12 @@ def fetch_and_process_difference_data() -> pd.DataFrame:
             all_stocks_df[col] = ""
 
     # all_data.csv ile birleştir
-    all_data_path = f"{DATA_DIR}/all_data.csv"
-    if os.path.exists(all_data_path):
-        all_data = pd.read_csv(all_data_path, dtype=str)
-        merged_df = pd.merge(
-            all_stocks_df,
-            all_data[["stock", "id", "ipoDate", "firstTradeDate"]],
-            on="stock",
-            how="left"
-        )
-    else:
-        logger.warning("⚠️ data/all_data.csv bulunamadı, id ve tarih bilgileri eklenemedi.")
-        merged_df = all_stocks_df.copy()
-        merged_df["id"] = ""
-        merged_df["ipoDate"] = ""
-        merged_df["firstTradeDate"] = ""
+    merged_df = pd.merge(
+        all_stocks_df,
+        all_data[["stock", "id", "ipoDate", "firstTradeDate"]],
+        on="stock",
+        how="left"
+    ).fillna("")
 
     # Tekrar edenleri logla
     duplicates = merged_df[merged_df.duplicated(subset=["stock"], keep=False)].sort_values("stock")
