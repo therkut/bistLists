@@ -94,6 +94,21 @@ def fetch_and_process_difference_data() -> pd.DataFrame:
     else:
         logger.info("✅ all_data.csv güncel, yeni hisse yok.")
 
+    # all_data.csv sıralama:
+    # - id boş olanlar en sonda
+    # - id dolu olanlar stock adına göre alfabetik
+    all_data["id"] = all_data["id"].fillna("").astype(str)
+    all_data["stock"] = all_data["stock"].fillna("").astype(str)
+
+    non_empty_id = all_data[all_data["id"].str.strip() != ""].copy()
+    empty_id = all_data[all_data["id"].str.strip() == ""].copy()
+
+    # case-insensitive alfabetik sıralama
+    non_empty_id = non_empty_id.sort_values(by=["stock"], key=lambda s: s.str.upper())
+    empty_id = empty_id.sort_values(by=["stock"], key=lambda s: s.str.upper())
+
+    all_data = pd.concat([non_empty_id, empty_id], ignore_index=True)
+
     save_csv(all_data[all_data_cols], all_data_path)
 
     # Katılım onayı
@@ -123,7 +138,7 @@ def fetch_and_process_difference_data() -> pd.DataFrame:
     else:
         logger.info("✅ Tekrar eden kayıt yok.")
 
-    merged_unique = merged_df.drop_duplicates(subset=["stock"])
+    merged_unique = merged_df.drop_duplicates(subset=["stock"]) 
 
     # Son tabloyu oluştur
     final_df = merged_unique[[
