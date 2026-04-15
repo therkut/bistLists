@@ -5,6 +5,10 @@ on:
     branches: ['main']
     paths:
       - '**/*.html'
+  workflow_run:
+    workflows: ["Update Stock Data"]
+    types:
+      - completed
   workflow_dispatch:
 
 permissions:
